@@ -18,6 +18,12 @@ h3 {
   text-shadow: 1.5px 0 #DA0463;
 }
 
+#users {
+  font-size: 2rem;
+  color: blue;
+  font-family: "Arvo", cursive;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
